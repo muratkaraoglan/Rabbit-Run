@@ -1,0 +1,7 @@
+Açık Yeşil : F3F348
+
+Koyu Yeşil : 31B46C
+
+Outline : 009640
+
+Font Type : Arco
